@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'MySQL_IF-11_Kepegawaian';
+$db = 'kepegawaian';
 $user = 'root';
 $pass = '';
 
